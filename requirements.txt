@@ -4,3 +4,5 @@ uuid
 gtts
 SpeechRecognition
 pydantic
+uvicorn
+python-dotenv
